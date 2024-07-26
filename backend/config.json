@@ -1,0 +1,14 @@
+{
+	"min_video_length":60,
+	"max_video_length":12000,
+	"min_views":100,
+	"max_views":-1,
+	"min_likes":50,
+	"max_likes":-1,
+	"allowed_channels":[],
+	"disallowed_channels":[],
+	"allowed_topics":["Technology"],
+	"disallowed_topics":["Music"],
+	"allow_hours_after_uploaded":5,
+	"disallow_days_after_uploaded":5
+}
